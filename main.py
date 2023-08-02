@@ -1,8 +1,8 @@
-from funcs import total
+from funcs import minus
 
 a = 10
 b = 5
-sum = total(a,b)
+sum = minus(a,b)
 
 
 print(f"{sum}")
